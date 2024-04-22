@@ -1,12 +1,40 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# React To-Do Machine
 
-¡Hola, Platzinauta!
+¡Bienvenido!
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+Este repositorio contiene el proyecto "To-Do Machine", una aplicación de tareas desarrollada con React. Aquí encontrarás el código necesario para poner en marcha tu propio gestor de tareas.
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+## Cómo empezar
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+Para clonar y ejecutar el proyecto, sigue estos pasos:
+
+1. **Clona el repositorio:** Usa `git clone` para obtener una copia local del proyecto.
+
+2. **Instala las dependencias:** Desde la raíz del proyecto, ejecuta `npm install` para instalar todas las dependencias necesarias.
+
+3. **Inicia la aplicación:** Usa `npm start` para arrancar el servidor de desarrollo de React. La aplicación estará disponible en `http://localhost:3000`.
+
+## Funcionalidades
+
+El proyecto React To-Do Machine incluye las siguientes características:
+
+- Agregar y eliminar tareas.
+- Marcar tareas como completadas.
+- Filtrar tareas por estado (completadas o pendientes).
+
+## Estructura del Proyecto
+
+Todo el código del proyecto está en la rama `main`. No hay otras ramas para el despliegue ni para diferentes clases. Esto significa que todo el desarrollo y las funcionalidades se encuentran en esta rama principal.
+
+## Despliegue del Proyecto
+
+El proyecto está desplegado usando GitHub Pages. Esto te permite ver la aplicación en funcionamiento directamente desde tu navegador.
+
+Puedes encontrar la versión desplegada de la aplicación en el siguiente enlace:
+
+[React To-Do Machine](https://ljdr64.github.io/react-to-do-machine)
+
+¡Espero que disfrutes trabajando con el proyecto React To-Do Machine!
 
 ## Getting Started with Create React App
 

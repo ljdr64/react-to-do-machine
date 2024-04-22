@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-to-do-machine/static/css/main.a8723ace.css",
+    "main.js": "/react-to-do-machine/static/js/main.de167ddb.js",
+    "index.html": "/react-to-do-machine/index.html",
+    "static/media/delete.svg": "/react-to-do-machine/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/react-to-do-machine/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.a8723ace.css.map": "/react-to-do-machine/static/css/main.a8723ace.css.map",
+    "main.de167ddb.js.map": "/react-to-do-machine/static/js/main.de167ddb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8723ace.css",
+    "static/js/main.de167ddb.js"
+  ]
+}
